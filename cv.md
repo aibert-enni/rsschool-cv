@@ -36,5 +36,7 @@ I developed one site for myself that you can find in my page or on the link: **[
 ###Education:
 **College:** Currently, I study in *Astana Polytechnic* for degree in computer technician
 ***
-###English:
-**A2**(I can write short sentences or small talk)
+###Languages:
+- **Kazakh:** native
+- **Russian:** intermediate
+- **English:** **A2**(I can write short sentences or small talk)
